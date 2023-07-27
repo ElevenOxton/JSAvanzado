@@ -1,0 +1,45 @@
+body{
+    background-image: url(wallpaper.jpg);
+    background-color: rgb(37, 37, 37);
+}
+
+#busqueda{
+    height: 50px;
+    width: 52px;
+    border-radius: 0px;
+    border:none;
+    background-color: transparent;
+    background-image: url(528098.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#fondo{
+    background-color: rgb(56, 8, 16);
+    border: none;
+    background-image: url(pokedex-loading.png);
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+.img{
+   padding-top: 115px;
+   width: 90%;
+}
+
+.card{
+    background-color: rgb(226, 21, 55);
+    
+}
+
+.card p{
+    margin-left: 10px;
+}
+
+
+a {
+ color: rgb(207, 140, 95);
+}
